@@ -4,5 +4,6 @@ public class JUB {
 		System.out.println("Alumno: Javier Uceda");
 		System.out.println("Modificación desde Master - Cambiado");
 		System.out.println("Modificación desde Develop");
+		System.out.println("Modificación desde GitHub");
 	}
 }
